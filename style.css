@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+  margin: 10px;
+  background: #444;
+}
+
+input {
+  position: fixed;
+  top: 1%;
+  left: 0%;
+  right: 0%;
+  display: flex;
+  margin: 0 auto;
+  padding: 14px;
+  outline: none;
+  border: none;
+  background: #222;
+  color: #ccc;
+  width: 425px;
+  font-size: 20px;
+  border-radius: 2px;
+  font-weight: 600;
+}
+
+ul {
+  padding-top: 60px;
+  font-size: 18px;
+  color: #ddd;
+}
